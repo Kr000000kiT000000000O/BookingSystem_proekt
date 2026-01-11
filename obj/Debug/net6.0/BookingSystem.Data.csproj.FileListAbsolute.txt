@@ -1,0 +1,14 @@
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.AssemblyInfoInputs.cache
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.AssemblyInfo.cs
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\bin\Debug\net6.0\BookingSystem.Data.deps.json
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\bin\Debug\net6.0\BookingSystem.Data.runtimeconfig.json
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\bin\Debug\net6.0\BookingSystem.Data.dll
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\bin\Debug\net6.0\BookingSystem.Data.pdb
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.csproj.AssemblyReference.cache
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.dll
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\refint\BookingSystem.Data.dll
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.pdb
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\BookingSystem.Data.genruntimeconfig.cache
+C:\Users\kiki1\source\repos\BookingSystem\BookingSystem.Data\obj\Debug\net6.0\ref\BookingSystem.Data.dll
